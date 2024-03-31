@@ -19,7 +19,7 @@ import teintureCilsEtSourcilsBrun from "../photos/teinture-cils-et-sourcils-brun
 import teintureCilsEtSourcilsNoir from "../photos/teinture-cils-et-sourcils-noir.jpg";
 import teintureCilsEtSourcilsChatain from "../photos/teinture-cils-et-sourcils-chatain-clair.jpg";
 
-const getPhotoFromName = (name) => {
+export const getPhotoFromName = (name) => {
     if (name === "Base semi-permante flexible rubber base UV/LED") {
         return baseSemiPermanteFlexibleRubber;
     } else if (name === "Cleaner triple action peggy sage 115ml") {
@@ -47,22 +47,22 @@ const getPhotoFromName = (name) => {
     }
 }
 
-const ProductCard = ({name, price, image}) => {
+const ProductCard = ({product, onSelect}) => {
     return (
-        <Card sx={{ maxWidth: 345, display: "flex" }}>
+        <Card sx={{ maxWidth: 345, display: "flex", boxShadow: 3}} onClick={() => onSelect(product)}>
             <CardActionArea>
                 <CardMedia
                     component="img"
                     height="400"
-                    image={getPhotoFromName(name)}
+                    image={getPhotoFromName(product.name)}
                     alt="No image available"
                 />
                 <CardContent>
                     <Typography gutterBottom variant="h5" component="div">
-                        {name}
+                        {product.name}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
-                        Price: {price}€
+                        Price: {product.price}€
                     </Typography>
                 </CardContent>
             </CardActionArea>
