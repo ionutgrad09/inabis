@@ -46,7 +46,7 @@ function App() {
                             maxWidth: "800px"
                         }}>
                             <img style={{height: "350px"}} src={getPhotoFromName(itemSelected.name)}
-                                 alt="Can't load image"/>
+                                 alt="no image"/>
                             <div style={{
                                 display: "flex",
                                 flexDirection: "column",
