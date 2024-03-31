@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Base semi permante flexible rubber base uvled",
+      "description": "Peggy Sage Flexible Semi-Permanent Rubber Base is ideal for long-lasting manicures. It is an essential step in the American application technique.",
+      "price": 32,
+      "photo": "base-semi-permante-flexible-rubber-base-uvled.jpg"
+    },
+    {
+      "name": "Cleaner triple action peggy sage 115ml",
+      "description": "A 3-in-1 product for nail polish application, false gel nails and maintenance of small equipment:\nFor natural nails, uv gel, brushes and equipment, it purifies and degreases nails, removes the sticky film of UV gel after polymerization, cleans brushes and other accessories.",
+      "price": 20,
+      "photo": "cleaner-triple-action-peggy-sage-115ml.jpg"
+    },
+    {
+      "name": "Cleaner triple action peggy sage 485ml",
+      "description": "A 3-in-1 product for nail polish application, false gel nails and maintenance of small equipment:\nFor natural nails, uv gel, brushes and equipment, it purifies and degreases nails, removes the sticky film of UV gel after polymerization, cleans brushes and other accessories.",
+      "price": 28,
+      "photo": "cleaner-triple-action-peggy-sage-485ml.jpg"
+    },
+    {
+      "name": "Colle peggy sage 3g",
+      "description": "This glue is ideal for gluing rhinestones, capsules and dressings to repair damaged nails. It restores the natural pink of the nail and is particularly suitable for use with transparent or French capsules.\nBrush application makes dosing easy.",
+      "price": 10,
+      "photo": "colle-peggy-sage-3g.jpg"
+    },
+    {
+      "name": "Colle peggy sage 15g",
+      "description": "This glue is ideal for gluing rhinestones, capsules and dressings to repair damaged nails. It restores the natural pink of the nail and is particularly suitable for transparent or French capsules.\nBrush application facilitates dosage.",
+      "price": 14,
+      "photo": "colle-peggy-sage-15g.jpg"
+    },
+    {
+      "name": "Colle transparente avec pinceau peggy sage 6g",
+      "description": "This glue is ideal for gluing rhinestones, capsules and dressings to repair damaged nails. It restores the natural pink of the nail and is particularly suitable for use with transparent or French capsules.\nBrush application makes dosing easy.",
+      "price": 14,
+      "photo": "colle-transparente-avec-pinceau-peggy-sage-6g.jpg"
+    },
+    {
+      "name": "Oxydant teinture cils",
+      "description": "The liquid oxidizer is specially and uniquely suited to mixing eyelash dye.",
+      "price": 15,
+      "photo": "oxydant-teinture-cils.jpg"
+    },
+    {
+      "name": "Pince a epiler crabe souple peggy sage 9cm",
+      "description": "Peggy Sage offers a wide range of tweezers in different shapes and sizes - crab, bias or square - for perfect hair removal.",
+      "price": 9,
+      "photo": "pince-a-epiler-crabe-souple-peggy-sage-9cm.jpg"
+    },
+    {
+      "name": "Pinceau teinture cils et sourcils",
+      "description": "The tinting brush makes it easy to apply the mixture to eyelashes and/or eyebrows. It has a narrow head for greater precision and deposits the right amount of product on the desired area.",
+      "price": 13,
+      "photo": "pinceau-teinture-cils-et-sourcils.jpg"
+    },
+    {
+      "name": "Teinture cils et sourcils brun",
+      "description": "This Brown dye can be used to emphasize and accentuate your eyes, or to hide the arrival of the first white hairs.\nBrown color brings intense color to your eyelashes and eyebrows. It accentuates and modifies your eyes. Ideal for changing the expression of your eyes and face.",
+      "price": 16,
+      "photo": "teinture-cils-et-sourcils-brun.jpg"
+    },
+    {
+      "name": "Teinture cils et sourcils chatain clair",
+      "description": "This Light Chestnut color can be used to enhance your look or hide the appearance of the first white hairs. It can also be used for mustaches.\nLight Châtain dye brings intense color to your eyelashes and eyebrows, accentuating and/or modifying your look. Ideal for changing the expression of your eyes and face.",
+      "price": 16,
+      "photo": "teinture-cils-et-sourcils-chatain-clair.jpg"
+    },
+    {
+      "name": "Teinture cils et sourcils noir",
+      "description": "This black dye intensifies and emphasizes your eyes, or masks the first white hairs. Black color brings intense color to your lashes and eyebrows. It darkens lash color to accentuate and modify your look. Ideal for changing your look and giving your face more expression.",
+      "price": 16,
+      "photo": "teinture-cils-et-sourcils-noir.jpg"
+    }
+  ]
+}
