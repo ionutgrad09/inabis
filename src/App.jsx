@@ -46,7 +46,7 @@ function App() {
                             maxWidth: "800px"
                         }}>
                             <img style={{height: "350px"}} src={getPhotoFromName(itemSelected.name)}
-                                 alt="no image"/>
+                                 alt="selling product"/>
                             <div style={{
                                 display: "flex",
                                 flexDirection: "column",
